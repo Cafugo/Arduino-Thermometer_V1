@@ -5,3 +5,6 @@ If you want to check out how the project works you can watch my video: https://y
 
 Please note that the code is in a compressed file that you can easyly decompress by using the software 7-Zip: https://7-zip.de/index.html
 If you have any problems with the project feel free to join my discord server: https://discord.gg/tEcPWUZXMb
+
+Arduino-Uno starter-kit: https://store.arduino.cc/products/arduino-starter-kit-multi-language
+The official Arduino software: https://www.arduino.cc/en/software
